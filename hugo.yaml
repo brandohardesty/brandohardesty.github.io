@@ -190,7 +190,7 @@ params:
           url: "https://example.com"
         content: |
           I build solutions that protect sensitive customer information for the tokenization team. My work includes:
-            - Developing and maintaining our service's internal api written in Lua
+            - Developing and maintaining our service's internal api written in Lua and C
             - Building a consumer facing internal site that uses serverless computing to handle requests
             - Contributing to our python and java sdks
             - Participating in on call rotations
